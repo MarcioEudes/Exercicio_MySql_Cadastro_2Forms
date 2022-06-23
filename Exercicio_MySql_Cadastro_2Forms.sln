@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_MySql_Cadastro_2Forms", "Exercicio_MySql_Cadastro_2Forms\Exercicio_MySql_Cadastro_2Forms.csproj", "{966D266F-49E4-4D64-AF6B-A350CE4CBA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966D266F-49E4-4D64-AF6B-A350CE4CBA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966D266F-49E4-4D64-AF6B-A350CE4CBA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966D266F-49E4-4D64-AF6B-A350CE4CBA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966D266F-49E4-4D64-AF6B-A350CE4CBA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC5651C-44A7-4C0B-8D77-EE302EB35BED}
+	EndGlobalSection
+EndGlobal
